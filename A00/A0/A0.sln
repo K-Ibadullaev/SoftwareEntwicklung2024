@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A0", "A0.csproj", "{681D344A-BA02-4038-BEF9-009E7C64B69F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemperaturCalculator", "..\Temperatur\TemperaturCalculator.csproj", "{449B6C20-F204-41DB-97B4-343402FB30C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{681D344A-BA02-4038-BEF9-009E7C64B69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{681D344A-BA02-4038-BEF9-009E7C64B69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{681D344A-BA02-4038-BEF9-009E7C64B69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{681D344A-BA02-4038-BEF9-009E7C64B69F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449B6C20-F204-41DB-97B4-343402FB30C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449B6C20-F204-41DB-97B4-343402FB30C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449B6C20-F204-41DB-97B4-343402FB30C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449B6C20-F204-41DB-97B4-343402FB30C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BFEC230-9649-471D-B569-08B70CBCE22F}
+	EndGlobalSection
+EndGlobal

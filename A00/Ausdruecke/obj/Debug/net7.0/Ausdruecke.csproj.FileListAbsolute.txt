@@ -1,0 +1,15 @@
+D:\csharp_book\SoftwareEntwicklung2024\A00\Ausdruecke\bin\Debug\net7.0\Ausdruecke.exe
+D:\csharp_book\SoftwareEntwicklung2024\A00\Ausdruecke\bin\Debug\net7.0\Ausdruecke.deps.json
+D:\csharp_book\SoftwareEntwicklung2024\A00\Ausdruecke\bin\Debug\net7.0\Ausdruecke.runtimeconfig.json
+D:\csharp_book\SoftwareEntwicklung2024\A00\Ausdruecke\bin\Debug\net7.0\Ausdruecke.dll
+D:\csharp_book\SoftwareEntwicklung2024\A00\Ausdruecke\bin\Debug\net7.0\Ausdruecke.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A00\Ausdruecke\obj\Debug\net7.0\Ausdruecke.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_book\SoftwareEntwicklung2024\A00\Ausdruecke\obj\Debug\net7.0\Ausdruecke.AssemblyInfoInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A00\Ausdruecke\obj\Debug\net7.0\Ausdruecke.AssemblyInfo.cs
+D:\csharp_book\SoftwareEntwicklung2024\A00\Ausdruecke\obj\Debug\net7.0\Ausdruecke.csproj.CoreCompileInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A00\Ausdruecke\obj\Debug\net7.0\Ausdruecke.sourcelink.json
+D:\csharp_book\SoftwareEntwicklung2024\A00\Ausdruecke\obj\Debug\net7.0\Ausdruecke.dll
+D:\csharp_book\SoftwareEntwicklung2024\A00\Ausdruecke\obj\Debug\net7.0\refint\Ausdruecke.dll
+D:\csharp_book\SoftwareEntwicklung2024\A00\Ausdruecke\obj\Debug\net7.0\Ausdruecke.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A00\Ausdruecke\obj\Debug\net7.0\Ausdruecke.genruntimeconfig.cache
+D:\csharp_book\SoftwareEntwicklung2024\A00\Ausdruecke\obj\Debug\net7.0\ref\Ausdruecke.dll

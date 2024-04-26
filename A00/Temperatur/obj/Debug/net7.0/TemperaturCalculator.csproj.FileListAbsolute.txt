@@ -1,0 +1,15 @@
+D:\csharp_book\SoftwareEntwicklung2024\A00\Temperatur\bin\Debug\net7.0\TemperaturCalculator.exe
+D:\csharp_book\SoftwareEntwicklung2024\A00\Temperatur\bin\Debug\net7.0\TemperaturCalculator.deps.json
+D:\csharp_book\SoftwareEntwicklung2024\A00\Temperatur\bin\Debug\net7.0\TemperaturCalculator.runtimeconfig.json
+D:\csharp_book\SoftwareEntwicklung2024\A00\Temperatur\bin\Debug\net7.0\TemperaturCalculator.dll
+D:\csharp_book\SoftwareEntwicklung2024\A00\Temperatur\bin\Debug\net7.0\TemperaturCalculator.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A00\Temperatur\obj\Debug\net7.0\TemperaturCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_book\SoftwareEntwicklung2024\A00\Temperatur\obj\Debug\net7.0\TemperaturCalculator.AssemblyInfoInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A00\Temperatur\obj\Debug\net7.0\TemperaturCalculator.AssemblyInfo.cs
+D:\csharp_book\SoftwareEntwicklung2024\A00\Temperatur\obj\Debug\net7.0\TemperaturCalculator.csproj.CoreCompileInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A00\Temperatur\obj\Debug\net7.0\TemperaturCalculator.sourcelink.json
+D:\csharp_book\SoftwareEntwicklung2024\A00\Temperatur\obj\Debug\net7.0\TemperaturCalculator.dll
+D:\csharp_book\SoftwareEntwicklung2024\A00\Temperatur\obj\Debug\net7.0\refint\TemperaturCalculator.dll
+D:\csharp_book\SoftwareEntwicklung2024\A00\Temperatur\obj\Debug\net7.0\TemperaturCalculator.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A00\Temperatur\obj\Debug\net7.0\TemperaturCalculator.genruntimeconfig.cache
+D:\csharp_book\SoftwareEntwicklung2024\A00\Temperatur\obj\Debug\net7.0\ref\TemperaturCalculator.dll
