@@ -1,0 +1,15 @@
+D:\csharp_book\SoftwareEntwicklung2024\A01\MobileFunk\bin\Debug\net7.0\MobileFunk.exe
+D:\csharp_book\SoftwareEntwicklung2024\A01\MobileFunk\bin\Debug\net7.0\MobileFunk.deps.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\MobileFunk\bin\Debug\net7.0\MobileFunk.runtimeconfig.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\MobileFunk\bin\Debug\net7.0\MobileFunk.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\MobileFunk\bin\Debug\net7.0\MobileFunk.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A01\MobileFunk\obj\Debug\net7.0\MobileFunk.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_book\SoftwareEntwicklung2024\A01\MobileFunk\obj\Debug\net7.0\MobileFunk.AssemblyInfoInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\MobileFunk\obj\Debug\net7.0\MobileFunk.AssemblyInfo.cs
+D:\csharp_book\SoftwareEntwicklung2024\A01\MobileFunk\obj\Debug\net7.0\MobileFunk.csproj.CoreCompileInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\MobileFunk\obj\Debug\net7.0\MobileFunk.sourcelink.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\MobileFunk\obj\Debug\net7.0\MobileFunk.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\MobileFunk\obj\Debug\net7.0\refint\MobileFunk.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\MobileFunk\obj\Debug\net7.0\MobileFunk.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A01\MobileFunk\obj\Debug\net7.0\MobileFunk.genruntimeconfig.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\MobileFunk\obj\Debug\net7.0\ref\MobileFunk.dll
