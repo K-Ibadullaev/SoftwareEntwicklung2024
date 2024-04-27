@@ -1,0 +1,15 @@
+D:\csharp_book\SoftwareEntwicklung2024\A01\FuncRechner\bin\Debug\net7.0\FuncRechner.exe
+D:\csharp_book\SoftwareEntwicklung2024\A01\FuncRechner\bin\Debug\net7.0\FuncRechner.deps.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\FuncRechner\bin\Debug\net7.0\FuncRechner.runtimeconfig.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\FuncRechner\bin\Debug\net7.0\FuncRechner.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\FuncRechner\bin\Debug\net7.0\FuncRechner.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A01\FuncRechner\obj\Debug\net7.0\FuncRechner.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_book\SoftwareEntwicklung2024\A01\FuncRechner\obj\Debug\net7.0\FuncRechner.AssemblyInfoInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\FuncRechner\obj\Debug\net7.0\FuncRechner.AssemblyInfo.cs
+D:\csharp_book\SoftwareEntwicklung2024\A01\FuncRechner\obj\Debug\net7.0\FuncRechner.csproj.CoreCompileInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\FuncRechner\obj\Debug\net7.0\FuncRechner.sourcelink.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\FuncRechner\obj\Debug\net7.0\FuncRechner.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\FuncRechner\obj\Debug\net7.0\refint\FuncRechner.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\FuncRechner\obj\Debug\net7.0\FuncRechner.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A01\FuncRechner\obj\Debug\net7.0\FuncRechner.genruntimeconfig.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\FuncRechner\obj\Debug\net7.0\ref\FuncRechner.dll
