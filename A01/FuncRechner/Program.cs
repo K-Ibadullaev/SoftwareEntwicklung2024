@@ -21,7 +21,7 @@
             List<double?> fvals = new List<double?>();
             //WriteLine(ListsLen);
             
-            WriteLine("| {0,10} | {1,-10} |", " X ", "F(X) ");
+            WriteLine("| {0,10} | {1,10} |", " X ", "F(X) ");
             WriteLine("---------------------------");
             for (int i = 0; i <= ListsLen; i++) 
             {
@@ -30,14 +30,14 @@
                 if ( (xvals[i] == -2.0) | (xvals[i] == 1.0) )
                 {
                     fvals.Add(null);
-                    WriteLine("| {0,10:F3} | {1,-10:F3} |", xvals[i], "NaN");
+                    WriteLine("| {0,10:F3} | {1,10:F3} |", xvals[i], "NaN");
                 }
                 else
                 {
                    
                     double iexp = (3 * xvals[i] - 6) / ((xvals[i] + 2) * Math.Pow(xvals[i] - 1, 2));
                     fvals.Add(iexp);
-                    WriteLine("| {0,10:F3} | {1,-10:F3} |", xvals[i],fvals[i]);
+                    WriteLine("| {0,10:F3} | {1,10:F3} |", xvals[i],fvals[i]);
                     
                 }
                 xvals.Add(xvals[i] + s);
