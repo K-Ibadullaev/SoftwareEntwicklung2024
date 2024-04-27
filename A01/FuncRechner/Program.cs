@@ -27,7 +27,7 @@
             {
                 
 
-                if ( (xvals[i] == -2.0) | (xvals[i] == 1) )
+                if ( (xvals[i] == -2.0) | (xvals[i] == 1.0) )
                 {
                     fvals.Add(null);
                     WriteLine("| {0,10:F3} | {1,-10:F3} |", xvals[i], "NaN");
