@@ -1,47 +1,67 @@
-﻿namespace FuncRechner
+﻿using System;
+
+namespace FuncRechner
 {
     public class Program
     {
         static void Main(string[] args)
         {
             WriteLine("Enter a");
-            double a = Convert.ToDouble(ReadLine());
+            decimal a = Convert.ToDecimal(ReadLine());
 
             WriteLine("Enter e");
-            double e = Convert.ToDouble(ReadLine());
+            decimal e = Convert.ToDecimal(ReadLine());
 
             WriteLine("Enter s");
-            double s = Convert.ToDouble(ReadLine());
+            decimal s = Convert.ToDecimal(ReadLine());
 
-            double ListsLen = Math.Round( (e - a)/s, 0, MidpointRounding.AwayFromZero);
+            int ListsLen = (int) Math.Round( (e - a)/s, 0, MidpointRounding.AwayFromZero);
 
-            List<double> xvals = new List<double>() { a,};
+            List<decimal> xvals = new List<decimal>() { a,};
             //xvals.Add(a);
 
-            List<double?> fvals = new List<double?>();
+            List<decimal?> fvals = new List<decimal?>();
             //WriteLine(ListsLen);
             
             WriteLine("| {0,10} | {1,10} |", " X ", "F(X) ");
             WriteLine("---------------------------");
             for (int i = 0; i <= ListsLen; i++) 
             {
-                
 
-                if ( (xvals[i] == -2.0) | (xvals[i] == 1.0) )
+                /*
+                                if ( (xvals[i] != -2M) || (xvals[i] != 1M) )
+                                {
+                                    decimal iexp = (3 * xvals[i] - 6) / ((xvals[i] + 2) * (xvals[i] - 1) * (xvals[i] - 1));
+                                    fvals.Add(iexp);
+                                    WriteLine("| {0,10:F3} | {1,10:F3} |", xvals[i], fvals[i]);
+
+                    
+                                }
+                                else
+                                {
+                                    fvals.Add(null);
+                                    WriteLine("| {0,10:F3} | {1,10:F3} |", xvals[i], fvals[i]);
+
+                }
+                                xvals.Add(xvals[i] + s);
+
+                */
+
+               
+                try
+                {
+                    decimal iexp = (3 * xvals[i] - 6) / ((xvals[i] + 2) * (xvals[i] - 1) * (xvals[i] - 1));
+                    fvals.Add(iexp);
+                    WriteLine("| {0,10:F3} | {1,10:F3} |", xvals[i], fvals[i]);
+                }
+                catch (Exception ex) 
                 {
                     fvals.Add(null);
                     WriteLine("| {0,10:F3} | {1,10:F3} |", xvals[i], "NaN");
+
                 }
-                else
-                {
-                   
-                    double iexp = (3 * xvals[i] - 6) / ((xvals[i] + 2) * Math.Pow(xvals[i] - 1, 2));
-                    fvals.Add(iexp);
-                    WriteLine("| {0,10:F3} | {1,10:F3} |", xvals[i],fvals[i]);
-                    
-                }
-                xvals.Add(xvals[i] + s);
-           
+                finally { xvals.Add(xvals[i] + s); }
+               
 
             };
 

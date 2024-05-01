@@ -1,0 +1,15 @@
+D:\csharp_book\SoftwareEntwicklung2024\A01\Schaltjahr\bin\Debug\net7.0\Schaltjahr.exe
+D:\csharp_book\SoftwareEntwicklung2024\A01\Schaltjahr\bin\Debug\net7.0\Schaltjahr.deps.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\Schaltjahr\bin\Debug\net7.0\Schaltjahr.runtimeconfig.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\Schaltjahr\bin\Debug\net7.0\Schaltjahr.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\Schaltjahr\bin\Debug\net7.0\Schaltjahr.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A01\Schaltjahr\obj\Debug\net7.0\Schaltjahr.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_book\SoftwareEntwicklung2024\A01\Schaltjahr\obj\Debug\net7.0\Schaltjahr.AssemblyInfoInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\Schaltjahr\obj\Debug\net7.0\Schaltjahr.AssemblyInfo.cs
+D:\csharp_book\SoftwareEntwicklung2024\A01\Schaltjahr\obj\Debug\net7.0\Schaltjahr.csproj.CoreCompileInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\Schaltjahr\obj\Debug\net7.0\Schaltjahr.sourcelink.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\Schaltjahr\obj\Debug\net7.0\Schaltjahr.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\Schaltjahr\obj\Debug\net7.0\refint\Schaltjahr.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\Schaltjahr\obj\Debug\net7.0\Schaltjahr.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A01\Schaltjahr\obj\Debug\net7.0\Schaltjahr.genruntimeconfig.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\Schaltjahr\obj\Debug\net7.0\ref\Schaltjahr.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FuncRechner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5f01fcf98f4947d5bde10fda52dfeda8b5ebed5d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2dd4291bb27a9de926cdf28be6216242d361716")]
 [assembly: System.Reflection.AssemblyProductAttribute("FuncRechner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FuncRechner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

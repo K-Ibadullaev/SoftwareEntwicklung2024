@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\csharp_book\\SoftwareEntwicklung2024\\A00\\A0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{681D344A-BA02-4038-BEF9-009E7C64B69F}|A0.csproj|d:\\csharp_book\\softwareentwicklung2024\\a00\\a0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{681D344A-BA02-4038-BEF9-009E7C64B69F}|A0.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{449B6C20-F204-41DB-97B4-343402FB30C8}|..\\Temperatur\\TemperaturCalculator.csproj|d:\\csharp_book\\softwareentwicklung2024\\a00\\temperatur\\temperatur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,6 +22,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\csharp_book\\SoftwareEntwicklung2024\\A00\\A0\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\csharp_book\\SoftwareEntwicklung2024\\A00\\A0\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:48:15.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Temperatur.cs",
               "DocumentMoniker": "D:\\csharp_book\\SoftwareEntwicklung2024\\A00\\Temperatur\\Temperatur.cs",
               "RelativeDocumentMoniker": "..\\Temperatur\\Temperatur.cs",
