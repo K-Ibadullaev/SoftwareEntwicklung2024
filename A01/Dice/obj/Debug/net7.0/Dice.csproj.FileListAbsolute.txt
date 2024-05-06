@@ -1,0 +1,15 @@
+D:\csharp_book\SoftwareEntwicklung2024\A01\Dice\bin\Debug\net7.0\Dice.exe
+D:\csharp_book\SoftwareEntwicklung2024\A01\Dice\bin\Debug\net7.0\Dice.deps.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\Dice\bin\Debug\net7.0\Dice.runtimeconfig.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\Dice\bin\Debug\net7.0\Dice.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\Dice\bin\Debug\net7.0\Dice.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A01\Dice\obj\Debug\net7.0\Dice.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_book\SoftwareEntwicklung2024\A01\Dice\obj\Debug\net7.0\Dice.AssemblyInfoInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\Dice\obj\Debug\net7.0\Dice.AssemblyInfo.cs
+D:\csharp_book\SoftwareEntwicklung2024\A01\Dice\obj\Debug\net7.0\Dice.csproj.CoreCompileInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\Dice\obj\Debug\net7.0\Dice.sourcelink.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\Dice\obj\Debug\net7.0\Dice.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\Dice\obj\Debug\net7.0\refint\Dice.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\Dice\obj\Debug\net7.0\Dice.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A01\Dice\obj\Debug\net7.0\Dice.genruntimeconfig.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\Dice\obj\Debug\net7.0\ref\Dice.dll

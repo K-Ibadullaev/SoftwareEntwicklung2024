@@ -1,0 +1,15 @@
+D:\csharp_book\SoftwareEntwicklung2024\A01\Wissenschafts-Cup\bin\Debug\net7.0\Wissenschafts-Cup.exe
+D:\csharp_book\SoftwareEntwicklung2024\A01\Wissenschafts-Cup\bin\Debug\net7.0\Wissenschafts-Cup.deps.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\Wissenschafts-Cup\bin\Debug\net7.0\Wissenschafts-Cup.runtimeconfig.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\Wissenschafts-Cup\bin\Debug\net7.0\Wissenschafts-Cup.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\Wissenschafts-Cup\bin\Debug\net7.0\Wissenschafts-Cup.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A01\Wissenschafts-Cup\obj\Debug\net7.0\Wissenschafts-Cup.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_book\SoftwareEntwicklung2024\A01\Wissenschafts-Cup\obj\Debug\net7.0\Wissenschafts-Cup.AssemblyInfoInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\Wissenschafts-Cup\obj\Debug\net7.0\Wissenschafts-Cup.AssemblyInfo.cs
+D:\csharp_book\SoftwareEntwicklung2024\A01\Wissenschafts-Cup\obj\Debug\net7.0\Wissenschafts-Cup.csproj.CoreCompileInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\Wissenschafts-Cup\obj\Debug\net7.0\Wissenschafts-Cup.sourcelink.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\Wissenschafts-Cup\obj\Debug\net7.0\Wissenschafts-Cup.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\Wissenschafts-Cup\obj\Debug\net7.0\refint\Wissenschafts-Cup.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\Wissenschafts-Cup\obj\Debug\net7.0\Wissenschafts-Cup.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A01\Wissenschafts-Cup\obj\Debug\net7.0\Wissenschafts-Cup.genruntimeconfig.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\Wissenschafts-Cup\obj\Debug\net7.0\ref\Wissenschafts-Cup.dll

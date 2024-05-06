@@ -1,0 +1,15 @@
+D:\csharp_book\SoftwareEntwicklung2024\A01\Aschebroedel\bin\Debug\net7.0\Aschebroedel.exe
+D:\csharp_book\SoftwareEntwicklung2024\A01\Aschebroedel\bin\Debug\net7.0\Aschebroedel.deps.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\Aschebroedel\bin\Debug\net7.0\Aschebroedel.runtimeconfig.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\Aschebroedel\bin\Debug\net7.0\Aschebroedel.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\Aschebroedel\bin\Debug\net7.0\Aschebroedel.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A01\Aschebroedel\obj\Debug\net7.0\Aschebroedel.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_book\SoftwareEntwicklung2024\A01\Aschebroedel\obj\Debug\net7.0\Aschebroedel.AssemblyInfoInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\Aschebroedel\obj\Debug\net7.0\Aschebroedel.AssemblyInfo.cs
+D:\csharp_book\SoftwareEntwicklung2024\A01\Aschebroedel\obj\Debug\net7.0\Aschebroedel.csproj.CoreCompileInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\Aschebroedel\obj\Debug\net7.0\Aschebroedel.sourcelink.json
+D:\csharp_book\SoftwareEntwicklung2024\A01\Aschebroedel\obj\Debug\net7.0\Aschebroedel.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\Aschebroedel\obj\Debug\net7.0\refint\Aschebroedel.dll
+D:\csharp_book\SoftwareEntwicklung2024\A01\Aschebroedel\obj\Debug\net7.0\Aschebroedel.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A01\Aschebroedel\obj\Debug\net7.0\Aschebroedel.genruntimeconfig.cache
+D:\csharp_book\SoftwareEntwicklung2024\A01\Aschebroedel\obj\Debug\net7.0\ref\Aschebroedel.dll
