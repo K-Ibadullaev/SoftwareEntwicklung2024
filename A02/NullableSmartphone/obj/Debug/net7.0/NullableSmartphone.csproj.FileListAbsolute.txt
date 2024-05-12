@@ -1,0 +1,15 @@
+D:\csharp_book\SoftwareEntwicklung2024\A02\NullableSmartphone\bin\Debug\net7.0\NullableSmartphone.exe
+D:\csharp_book\SoftwareEntwicklung2024\A02\NullableSmartphone\bin\Debug\net7.0\NullableSmartphone.deps.json
+D:\csharp_book\SoftwareEntwicklung2024\A02\NullableSmartphone\bin\Debug\net7.0\NullableSmartphone.runtimeconfig.json
+D:\csharp_book\SoftwareEntwicklung2024\A02\NullableSmartphone\bin\Debug\net7.0\NullableSmartphone.dll
+D:\csharp_book\SoftwareEntwicklung2024\A02\NullableSmartphone\bin\Debug\net7.0\NullableSmartphone.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A02\NullableSmartphone\obj\Debug\net7.0\NullableSmartphone.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_book\SoftwareEntwicklung2024\A02\NullableSmartphone\obj\Debug\net7.0\NullableSmartphone.AssemblyInfoInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A02\NullableSmartphone\obj\Debug\net7.0\NullableSmartphone.AssemblyInfo.cs
+D:\csharp_book\SoftwareEntwicklung2024\A02\NullableSmartphone\obj\Debug\net7.0\NullableSmartphone.csproj.CoreCompileInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A02\NullableSmartphone\obj\Debug\net7.0\NullableSmartphone.sourcelink.json
+D:\csharp_book\SoftwareEntwicklung2024\A02\NullableSmartphone\obj\Debug\net7.0\NullableSmartphone.dll
+D:\csharp_book\SoftwareEntwicklung2024\A02\NullableSmartphone\obj\Debug\net7.0\refint\NullableSmartphone.dll
+D:\csharp_book\SoftwareEntwicklung2024\A02\NullableSmartphone\obj\Debug\net7.0\NullableSmartphone.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A02\NullableSmartphone\obj\Debug\net7.0\NullableSmartphone.genruntimeconfig.cache
+D:\csharp_book\SoftwareEntwicklung2024\A02\NullableSmartphone\obj\Debug\net7.0\ref\NullableSmartphone.dll

@@ -1,0 +1,15 @@
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\bin\Debug\net7.0\Energiewiesen.exe
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\bin\Debug\net7.0\Energiewiesen.deps.json
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\bin\Debug\net7.0\Energiewiesen.runtimeconfig.json
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\bin\Debug\net7.0\Energiewiesen.dll
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\bin\Debug\net7.0\Energiewiesen.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\Energiewiesen.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\Energiewiesen.AssemblyInfoInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\Energiewiesen.AssemblyInfo.cs
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\Energiewiesen.csproj.CoreCompileInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\Energiewiesen.sourcelink.json
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\Energiewiesen.dll
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\refint\Energiewiesen.dll
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\Energiewiesen.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\Energiewiesen.genruntimeconfig.cache
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\ref\Energiewiesen.dll

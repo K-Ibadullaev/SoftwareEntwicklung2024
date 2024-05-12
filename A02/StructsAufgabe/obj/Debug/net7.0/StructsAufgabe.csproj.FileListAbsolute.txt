@@ -1,0 +1,15 @@
+D:\csharp_book\SoftwareEntwicklung2024\A02\StructsAufgabe\bin\Debug\net7.0\StructsAufgabe.exe
+D:\csharp_book\SoftwareEntwicklung2024\A02\StructsAufgabe\bin\Debug\net7.0\StructsAufgabe.deps.json
+D:\csharp_book\SoftwareEntwicklung2024\A02\StructsAufgabe\bin\Debug\net7.0\StructsAufgabe.runtimeconfig.json
+D:\csharp_book\SoftwareEntwicklung2024\A02\StructsAufgabe\bin\Debug\net7.0\StructsAufgabe.dll
+D:\csharp_book\SoftwareEntwicklung2024\A02\StructsAufgabe\bin\Debug\net7.0\StructsAufgabe.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A02\StructsAufgabe\obj\Debug\net7.0\StructsAufgabe.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_book\SoftwareEntwicklung2024\A02\StructsAufgabe\obj\Debug\net7.0\StructsAufgabe.AssemblyInfoInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A02\StructsAufgabe\obj\Debug\net7.0\StructsAufgabe.AssemblyInfo.cs
+D:\csharp_book\SoftwareEntwicklung2024\A02\StructsAufgabe\obj\Debug\net7.0\StructsAufgabe.csproj.CoreCompileInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A02\StructsAufgabe\obj\Debug\net7.0\StructsAufgabe.sourcelink.json
+D:\csharp_book\SoftwareEntwicklung2024\A02\StructsAufgabe\obj\Debug\net7.0\StructsAufgabe.dll
+D:\csharp_book\SoftwareEntwicklung2024\A02\StructsAufgabe\obj\Debug\net7.0\refint\StructsAufgabe.dll
+D:\csharp_book\SoftwareEntwicklung2024\A02\StructsAufgabe\obj\Debug\net7.0\StructsAufgabe.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A02\StructsAufgabe\obj\Debug\net7.0\StructsAufgabe.genruntimeconfig.cache
+D:\csharp_book\SoftwareEntwicklung2024\A02\StructsAufgabe\obj\Debug\net7.0\ref\StructsAufgabe.dll

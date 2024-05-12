@@ -1,0 +1,15 @@
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\bin\Debug\net7.0\Energiewesen.exe
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\bin\Debug\net7.0\Energiewesen.deps.json
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\bin\Debug\net7.0\Energiewesen.runtimeconfig.json
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\bin\Debug\net7.0\Energiewesen.dll
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\bin\Debug\net7.0\Energiewesen.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\Energiewesen.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\Energiewesen.AssemblyInfoInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\Energiewesen.AssemblyInfo.cs
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\Energiewesen.csproj.CoreCompileInputs.cache
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\Energiewesen.sourcelink.json
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\Energiewesen.dll
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\refint\Energiewesen.dll
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\Energiewesen.pdb
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\Energiewesen.genruntimeconfig.cache
+D:\csharp_book\SoftwareEntwicklung2024\A02\Energiewiesen\obj\Debug\net7.0\ref\Energiewesen.dll
