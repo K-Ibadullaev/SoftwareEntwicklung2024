@@ -1,12 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\csharp_book\\SoftwareEntwicklung2024\\A02\\NullableSmartphone\\",
+  "WorkspaceRootPath": "C:\\Users\\ki30cane\\Documents\\SoftwareentwicklungSoSe\\SoftwareEntwicklung2024\\A02\\NullableSmartphone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C87E92C-BE04-45A4-8866-CE046925DD28}|..\\Energiewiesen\\Energiewesen.csproj|d:\\csharp_book\\softwareentwicklung2024\\a02\\energiewiesen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C87E92C-BE04-45A4-8866-CE046925DD28}|..\\Energiewiesen\\Energiewesen.csproj|c:\\users\\ki30cane\\documents\\softwareentwicklungsose\\softwareentwicklung2024\\a02\\energiewiesen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C87E92C-BE04-45A4-8866-CE046925DD28}|..\\Energiewiesen\\Energiewesen.csproj|d:\\csharp_book\\softwareentwicklung2024\\a02\\energiewiesen\\energiewesen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C87E92C-BE04-45A4-8866-CE046925DD28}|..\\Energiewiesen\\Energiewesen.csproj|c:\\users\\ki30cane\\documents\\softwareentwicklungsose\\softwareentwicklung2024\\a02\\energiewiesen\\energiewesen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,26 +22,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\csharp_book\\SoftwareEntwicklung2024\\A02\\Energiewiesen\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\ki30cane\\Documents\\SoftwareentwicklungSoSe\\SoftwareEntwicklung2024\\A02\\Energiewiesen\\Program.cs",
               "RelativeDocumentMoniker": "..\\Energiewiesen\\Program.cs",
-              "ToolTip": "D:\\csharp_book\\SoftwareEntwicklung2024\\A02\\Energiewiesen\\Program.cs",
+              "ToolTip": "C:\\Users\\ki30cane\\Documents\\SoftwareentwicklungSoSe\\SoftwareEntwicklung2024\\A02\\Energiewiesen\\Program.cs",
               "RelativeToolTip": "..\\Energiewiesen\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T20:22:36.962Z",
+              "WhenOpened": "2024-05-14T08:43:02.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "EnergieWesen.cs",
-              "DocumentMoniker": "D:\\csharp_book\\SoftwareEntwicklung2024\\A02\\Energiewiesen\\EnergieWesen.cs",
+              "DocumentMoniker": "C:\\Users\\ki30cane\\Documents\\SoftwareentwicklungSoSe\\SoftwareEntwicklung2024\\A02\\Energiewiesen\\EnergieWesen.cs",
               "RelativeDocumentMoniker": "..\\Energiewiesen\\EnergieWesen.cs",
-              "ToolTip": "D:\\csharp_book\\SoftwareEntwicklung2024\\A02\\Energiewiesen\\EnergieWesen.cs",
+              "ToolTip": "C:\\Users\\ki30cane\\Documents\\SoftwareentwicklungSoSe\\SoftwareEntwicklung2024\\A02\\Energiewiesen\\EnergieWesen.cs",
               "RelativeToolTip": "..\\Energiewiesen\\EnergieWesen.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAUwCQAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T18:36:07.021Z",
+              "WhenOpened": "2024-05-14T08:42:58.078Z",
               "EditorCaption": ""
             }
           ]

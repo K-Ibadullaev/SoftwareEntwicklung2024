@@ -4,10 +4,10 @@ namespace Energiewiesen;
 public enum Kategorie { THERMO = 1, ELEKTRO = 2, NONE = 0 };
 public class EnergieWesen
 {
-    private string? Bezeichnung { get; set; }
-    private int? Registriernummer { get; set; }
-    private Kategorie kategorie { get; set; }
-    private double? Leistung { get; set; }
+    public string? Bezeichnung { get; set; }
+    public int? Registriernummer { get; set; }
+    public Kategorie kategorie { get; set; }
+    public double? Leistung { get; set; }
 
 
 

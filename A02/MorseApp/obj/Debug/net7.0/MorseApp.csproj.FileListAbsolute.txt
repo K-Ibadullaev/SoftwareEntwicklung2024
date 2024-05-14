@@ -1,0 +1,15 @@
+C:\Users\ki30cane\Documents\SoftwareentwicklungSoSe\SoftwareEntwicklung2024\A02\MorseApp\bin\Debug\net7.0\MorseApp.exe
+C:\Users\ki30cane\Documents\SoftwareentwicklungSoSe\SoftwareEntwicklung2024\A02\MorseApp\bin\Debug\net7.0\MorseApp.deps.json
+C:\Users\ki30cane\Documents\SoftwareentwicklungSoSe\SoftwareEntwicklung2024\A02\MorseApp\bin\Debug\net7.0\MorseApp.runtimeconfig.json
+C:\Users\ki30cane\Documents\SoftwareentwicklungSoSe\SoftwareEntwicklung2024\A02\MorseApp\bin\Debug\net7.0\MorseApp.dll
+C:\Users\ki30cane\Documents\SoftwareentwicklungSoSe\SoftwareEntwicklung2024\A02\MorseApp\bin\Debug\net7.0\MorseApp.pdb
+C:\Users\ki30cane\Documents\SoftwareentwicklungSoSe\SoftwareEntwicklung2024\A02\MorseApp\obj\Debug\net7.0\MorseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ki30cane\Documents\SoftwareentwicklungSoSe\SoftwareEntwicklung2024\A02\MorseApp\obj\Debug\net7.0\MorseApp.AssemblyInfoInputs.cache
+C:\Users\ki30cane\Documents\SoftwareentwicklungSoSe\SoftwareEntwicklung2024\A02\MorseApp\obj\Debug\net7.0\MorseApp.AssemblyInfo.cs
+C:\Users\ki30cane\Documents\SoftwareentwicklungSoSe\SoftwareEntwicklung2024\A02\MorseApp\obj\Debug\net7.0\MorseApp.csproj.CoreCompileInputs.cache
+C:\Users\ki30cane\Documents\SoftwareentwicklungSoSe\SoftwareEntwicklung2024\A02\MorseApp\obj\Debug\net7.0\MorseApp.sourcelink.json
+C:\Users\ki30cane\Documents\SoftwareentwicklungSoSe\SoftwareEntwicklung2024\A02\MorseApp\obj\Debug\net7.0\MorseApp.dll
+C:\Users\ki30cane\Documents\SoftwareentwicklungSoSe\SoftwareEntwicklung2024\A02\MorseApp\obj\Debug\net7.0\refint\MorseApp.dll
+C:\Users\ki30cane\Documents\SoftwareentwicklungSoSe\SoftwareEntwicklung2024\A02\MorseApp\obj\Debug\net7.0\MorseApp.pdb
+C:\Users\ki30cane\Documents\SoftwareentwicklungSoSe\SoftwareEntwicklung2024\A02\MorseApp\obj\Debug\net7.0\MorseApp.genruntimeconfig.cache
+C:\Users\ki30cane\Documents\SoftwareentwicklungSoSe\SoftwareEntwicklung2024\A02\MorseApp\obj\Debug\net7.0\ref\MorseApp.dll
